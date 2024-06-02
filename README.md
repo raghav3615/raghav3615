@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>1st Year CSE Student.<br>MERN Stack-Developer</h1>
+<h2>1st Year CSE Student.<br>MERN Stack-Developer</h2>
 
 
 ## 🌐 Socials:
