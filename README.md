@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **NextJs.**
 
-- 🌱 I’m currently learning **DevOps Technologies**
+- 🌱 I’m currently learning **DevOps Technologies, DSA**
 
-- ☁️ I've a keen interest in Web3.
+- ☁️ I've a keen interest in Web3, AI&ML.
 
 - 💬 Ask me about **ReactJs, NextJs and NodeJs**
 
