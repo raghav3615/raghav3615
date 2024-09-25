@@ -1,5 +1,11 @@
 # 💫 About Me:
-<h2>CSE Student.<br>MERN Stack-Developer</h2>
+- 🔭 I’m currently working on **NextJs.**
+
+- 🌱 I’m currently learning **DevOps Technologies**
+
+- ☁️ I've a keen interest in Web3.
+
+- 💬 Ask me about **ReactJs, NextJs and NodeJs**
 
 
 ## 🌐 Socials:
