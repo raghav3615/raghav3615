@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Raghav Dadhich😊</h1>
-- 🔭 I’m currently working on **NextJs.**
+- 🔭 I’m currently working on **NextJs**
 
 - 🌱 I’m currently learning **DevOps Technologies, DSA**
 
