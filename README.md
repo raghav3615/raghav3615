@@ -19,9 +19,6 @@
     <a title="dadhichraghav896@gmail.com" href="mailto:adhichraghav896@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail&perline=14" />
     </a>
-    <a href="https://www.instagram.com/itzraghavgod/">
-        <img src="https://skillicons.dev/icons?i=instagram&perline=14" />
-    </a>
     <a href="https://x.com/raghav_dadhich">
         <img src="https://skillicons.dev/icons?i=twitter&perline=14" />
     </a>
