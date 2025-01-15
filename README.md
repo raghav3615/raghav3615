@@ -16,7 +16,7 @@
 <a href="https://dev.to/ragzus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ragzus" height="30" width="40" /></a>
 <a href="https://twitter.com/raghav_dadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghav_dadhich" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raghavhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghavhere" height="30" width="40" /></a>
-<a href="https://discord.gg/930422453451243521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="930422453451243521" height="30" width="40" /></a>
+<a href="https://discord.com/users/ragzuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="930422453451243521" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
