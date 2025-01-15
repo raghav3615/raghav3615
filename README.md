@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Raghav Dadhich😊</h1>
 - 🔭 I’m currently working on <b>NextJs</b>
 
-- 🌱 I’m currently learning **DevOps Technologies, DSA**
+- 🌱 I’m currently learning **ML & DL**
 
 - ☁️ I've a keen interest in **Web3, AI&ML**.
 
