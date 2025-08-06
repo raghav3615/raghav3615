@@ -1,7 +1,7 @@
 <h2>Yo, I'm Raghav Dadhich😊</h2>
 <h4>A Developer from India that likes build stuff from scratch</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav3615&label=Profile%20views&color=0e75b6&style=flat" alt="raghav3615" /> </p>
+<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Flofi-coding-retreat-coder-embraces-retro-anime-vibes-serenely-lit-workspace_1121478-1079.jpg&f=1&nofb=1&ipt=180fd477cee73ddb504f77b3f9bd210e4fcc719d8e18e2d9a83b19e273049eda" alt="wallpaper"  /></a>
 
 - 🔭 I’m currently working on <b>NextJs</b>
 
