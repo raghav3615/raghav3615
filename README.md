@@ -1,14 +1,10 @@
-<h2 align="center">Yo, I'm Raghav Dadhich😊</h2>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&random=true&width=435&lines=I+am+an+Engineer...;+Who+loves+to+make+random+Stuff..." alt="Typing SVG" /></a>
-</p>
-
 <p align="center">
   <img src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAC/mario-super-mario.gif" width="1000" height="500"/>
 </p>
-
-
+  
 ### About 🙋🏻‍♂️
+<p> Check my website: <a href="www.ragzus.me" target="blank">Ragzus</p>
+
 ```python
 Name = "Raghav"
 WhatAmI= "Human"
