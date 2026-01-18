@@ -3,7 +3,7 @@
 </p>
   
 ### About 🙋🏻‍♂️
-<p> Check my website: <a href="www.ragzus.me" target="blank">Ragzus</p>
+<p> Check my website: <a href="https://www.ragzus.me/" target="blank">Ragzus</p>
 
 ```python
 Name = "Raghav"
