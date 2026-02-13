@@ -41,6 +41,6 @@ WhatILove=["Coding","Football","Music","Shitposting"]
     </tr>
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghav3615&layout=compact&theme=radical)](https://github.com/raghav3615)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raghav3615&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
