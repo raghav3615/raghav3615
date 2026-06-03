@@ -1,9 +1,8 @@
-```
-> Name = Raghav
-> WhatAmI= just another cs undergrad
-> WhatILove= [Coding, Football, Music, Shitposting]
-> CurrentlyExploring = LLP, System Architecture, ML fundamentals
-```
+<h3 align="center">Hey! I'm Raghav :)</h3>
+
+<p align="center"> 
+I like exploring and contributing to open-source projects. </br>
+I spend my time playing chess, watching football, shitposting and sometimes coding as well </p>
 
 <p align="center">
   <a href="https://x.com/raghav_dadhich" target="_blank">twitter</a> •
